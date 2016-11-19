@@ -1,2 +1,2 @@
 # jlibry
-JLibry is a Java language library of universal and usefull functions.
+JLibry is a universal and useful library for projects on Java language.
